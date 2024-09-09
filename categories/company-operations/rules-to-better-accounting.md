@@ -7,6 +7,8 @@ index:
 - do-you-involve-cross-checks-in-your-procedures
 - do-you-tie-knowledge-to-the-role
 - do-you-have-monthly-accounting-meetings
+- compliance-sheet
+- importance-of-reconciliation
 - report-gas-in-the-tank
 - manage-travel-in-centralized-systems
 - do-you-know-how-to-claim-expense-reimbursements

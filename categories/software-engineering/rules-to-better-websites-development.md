@@ -13,10 +13,10 @@ index:
 - close-quotations-of-html-attributes
 - best-way-to-display-code-on-your-website
 - use-heading-tags-h1-h2-h3
-- chose-efficient-anchor-names
 - design-to-improve-your-google-ranking
 - do-you-include-google-analytics-in-your-website
 - make-your-site-easy-to-maintain
+- streamline-development-with-npm-and-task-runners
 - 404-useful-error-page
 - 404-error-avoid-changing-the-url
 - always-put-javascript-in-a-separate-file
@@ -26,6 +26,7 @@ index:
 - avoid-using-uncs-in-hrefs
 - check-your-website-is-running
 - progressive-web-app
+- use-dynamic-viewport-units
 - improve-performance-with-lazy-loading-of-media-assets
 - use-right-site-search-for-your-website
 - do-not-use-linkbutton

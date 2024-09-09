@@ -6,7 +6,7 @@ uri: rules-to-better-blazor
 experts: https://www.ssw.com.au/people/?skill=Blazor
 consulting: https://ssw.com.au/consulting/blazor
 index:
-  # - why-choose-blazor
+  - why-blazor-is-great
   - blazor-learning-resources
   - share-common-types-and-logic
   # - the-best-ui-frameworks-for-blazor
@@ -17,7 +17,6 @@ index:
   # - test-blazor-components
   # - blazor-pwa
   # - blazor-project-architechture
-  - blazor-does-not-support-stopping-event-propogation
   - blazor-basic-appstate-pattern
   - blazor-appstate-pattern-with-notifications
   - decouple-api-from-blazor-components
